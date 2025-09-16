@@ -90,4 +90,4 @@ Adicione novas lâminas no array SLIDES no App.jsx.
 Modifique estilos no Tailwind ou adicione classes personalizadas no index.css.
 
 ### 📝 Licença
-Create with love by MIT © [Jonathan Cavalcanti]
+Create with love by MIT © [Jonathan Cavalcante]
